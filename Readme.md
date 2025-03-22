@@ -53,6 +53,5 @@ Proyek ini bersifat open-source dan dapat digunakan sesuai dengan lisensi yang b
 ## Kontributor
 Jika ingin berkontribusi, silakan fork repository ini dan buat pull request dengan perbaikan atau fitur tambahan!
 
----
-🚀 **Selamat Mencoba!**
+
 
