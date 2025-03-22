@@ -49,8 +49,3 @@ pip install opencv-python numpy matplotlib scikit-learn
 
 ## Lisensi
 Proyek ini bersifat open-source dan dapat digunakan sesuai dengan lisensi yang berlaku.
-
-
-
-
-
